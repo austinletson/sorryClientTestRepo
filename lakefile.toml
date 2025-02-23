@@ -1,0 +1,10 @@
+name = "sorryClientTestRepo"
+version = "0.1.0"
+defaultTargets = ["sorryclienttestrepo"]
+
+[[lean_lib]]
+name = "SorryClientTestRepo"
+
+[[lean_exe]]
+name = "sorryclienttestrepo"
+root = "Main"
